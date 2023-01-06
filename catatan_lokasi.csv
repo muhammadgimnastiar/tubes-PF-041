@@ -89,7 +89,7 @@ id,tanggal,lokasi_dominan
 88,21/05/19,Kota Tangerang
 89,21/05/19,Jakarta Barat
 90,21/05/19,Kota Depok
-91,21/05/19,Jakarta Barat
+91,21/05/19,Jabar
 92,21/05/19,Kota Depok
 93,21/05/19,Jakarta Barat
 94,21/05/19,Kota Bogor
@@ -98,7 +98,7 @@ id,tanggal,lokasi_dominan
 97,21/05/19,Kota Tangerang Selatan
 98,21/05/19,Jakarta Timur
 99,21/05/19,Jakarta Timur
-100,21/05/19,Jakarta Timur
+100,21/05/19,Jaktim
 1,22/05/19,Jakarta Pusat
 2,22/05/19,Kabupaten Bogor
 3,22/05/19,Jakarta Timur
@@ -216,7 +216,7 @@ id,tanggal,lokasi_dominan
 15,23/05/19,Kota Depok
 16,23/05/19,Kota Bekasi
 17,23/05/19,Kota Yogyakarta
-18,23/05/19,Jakarta Barat
+18,23/05/19,JakPus
 19,23/05/19,Kabupaten Tangerang
 20,23/05/19,Kota Bogor
 21,23/05/19,Jakarta Pusat
@@ -2599,5 +2599,3 @@ id,tanggal,lokasi_dominan
 98,15/06/19,Jakarta Timur
 99,15/06/19,Jakarta Timur
 100,15/06/19,Jakarta Timur
-101,15/06/19,Jawa
-102,16/06/19,Kalimantan
